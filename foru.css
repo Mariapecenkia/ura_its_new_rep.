@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.jojo li{
+    font-size: 20px;
+}
+
+@media(max-width:700px){
+    .main{
+         display: block;
+         text-align:center
+    }
+}

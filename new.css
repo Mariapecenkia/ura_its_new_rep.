@@ -1,0 +1,14 @@
+.main{
+    background-color: bisque;
+}
+
+.box{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+   
+}
+.box td{
+    padding: 20px;
+    background-color: rgb(216, 115, 211);
+}
